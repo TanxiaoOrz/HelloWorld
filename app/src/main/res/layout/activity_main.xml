@@ -8,8 +8,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="16dp"
     android:focusableInTouchMode="true"
-    android:focusable="true"
-    tools:context="com.example.helloworld.fangdai">
+    android:focusable="true">
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
