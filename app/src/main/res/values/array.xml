@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user">
+        <item>个人用户</item>
+        <item>企业用户</item>
+    </string-array>
+</resources>
